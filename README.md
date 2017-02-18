@@ -1,5 +1,5 @@
-# Homework #4 - 
-
+# Homework #4
+<details>
 ## Instructions
 ---
 1. Install Git  [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
@@ -57,3 +57,4 @@ Our part time and full time courses are 13 intense weeks of focused study on the
 Class sizes are small to ensure that each student gets individual attention from our world class instructors to help them succeed.
 
 For more information visit: www.lambdaschool.com
+<\details>
