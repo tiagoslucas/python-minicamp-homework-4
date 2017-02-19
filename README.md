@@ -57,4 +57,3 @@ Our part time and full time courses are 13 intense weeks of focused study on the
 Class sizes are small to ensure that each student gets individual attention from our world class instructors to help them succeed.
 
 For more information visit: www.lambdaschool.com
-<\details>
