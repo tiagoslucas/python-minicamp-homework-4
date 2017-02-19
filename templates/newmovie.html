@@ -1,0 +1,21 @@
+<head>
+<link rel="stylesheet" type="text/css" href="/static/styles/styles.css" />
+<link rel='shortcut icon' href='/favicon.ico' />
+</head>
+
+<h1 class="bigboldheader" >Add a new movie to the database!</h1>
+
+<form action="/newmovie" method="POST">
+    <pre> Title                    Year</pre>
+    <input name="title" />
+    <input name="year" />
+    <input type="submit" value="Submit" />
+</form>
+
+<form action="/search" method="GET">
+	<h3>Search</h3>
+	<input type="text" name="title" />
+	<input type="submit" />
+</form>
+
+<a class="hyperlink" href="/movies">Movie Database</a>

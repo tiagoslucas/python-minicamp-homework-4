@@ -1,0 +1,12 @@
+body {
+        background: whitesmoke;
+    }
+
+.bigboldheader {
+        font-size: 300%;
+    }
+
+.hyperlink {
+        text-decoration: none;
+        color: green;
+        }
